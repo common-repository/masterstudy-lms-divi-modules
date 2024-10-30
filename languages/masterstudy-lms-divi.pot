@@ -1,0 +1,477 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Masterstudy LMS Divi Modules\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-21 10:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8.1\n"
+"X-Domain: masterstudy-lms-divi"
+
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:67
+msgid " Displaying of categories"
+msgstr ""
+
+#: includes/modules/RecentCourses/RecentCourses.php:52
+#: includes/modules/CourseBundles/CourseBundles.php:39
+msgid "2"
+msgstr ""
+
+#: includes/modules/RecentCourses/RecentCourses.php:53
+#: includes/modules/CourseBundles/CourseBundles.php:40
+msgid "3"
+msgstr ""
+
+#: includes/modules/RecentCourses/RecentCourses.php:54
+#: includes/modules/CourseBundles/CourseBundles.php:41
+msgid "4"
+msgstr ""
+
+#: includes/modules/CourseBundles/CourseBundles.php:42
+msgid "5"
+msgstr ""
+
+#: includes/modules/RecentCourses/RecentCourses.php:55
+#: includes/modules/CourseBundles/CourseBundles.php:43
+msgid "6"
+msgstr ""
+
+#: includes/modules/IconBox/IconBox.php:87
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/modules/IconBox/IconBox.php:35
+msgid "Button Link URL"
+msgstr ""
+
+#: includes/modules/IconBox/IconBox.php:80
+msgid "Button Title Color"
+msgstr ""
+
+#: includes/modules/FeaturedTeacher/FeaturedTeacher.php:59
+#: includes/modules/IconBox/IconBox.php:26
+msgid "Choose an Image"
+msgstr ""
+
+#: includes/modules/FeaturedTeacher/FeaturedTeacher.php:49
+msgid "Content entered here will appear below the heading text."
+msgstr ""
+
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:105
+msgid "Courses Carousel error: Please select at least one category!"
+msgstr ""
+
+#: includes/modules/CoursesCategories/CoursesCategories.php:70
+msgid "Courses Categories error: Please select at least one category!"
+msgstr ""
+
+#: includes/modules/CoursesGrid/CoursesGrid.php:79
+msgid "Courses Per Page"
+msgstr ""
+
+#: includes/modules/RecentCourses/RecentCourses.php:48
+#: includes/modules/CoursesGrid/CoursesGrid.php:72
+msgid "Courses Per Row"
+msgstr ""
+
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:44
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:98
+msgid "Default"
+msgstr ""
+
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:60
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:72
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:87
+msgid "Disable"
+msgstr ""
+
+#: includes/modules/SingleCourseCarousel/SingleCourseCarousel.php:57
+msgid "disable"
+msgstr ""
+
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:59
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:71
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:86
+msgid "Enable"
+msgstr ""
+
+#: includes/modules/SingleCourseCarousel/SingleCourseCarousel.php:56
+msgid "enable"
+msgstr ""
+
+#: includes/modules/SingleCourseCarousel/SingleCourseCarousel.php:52
+msgid "Enable or Disable Previous/Next Buttons"
+msgstr ""
+
+#: includes/modules/BlogList/BlogList.php:52
+msgid "Enter the count for displaying posts"
+msgstr ""
+
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:46
+msgid "Free"
+msgstr ""
+
+#: includes/modules/SingleCourseCarousel/SingleCourseCarousel.php:44
+msgid "free"
+msgstr ""
+
+#: includes/modules/BlogList/BlogList.php:64
+msgid "Grid View"
+msgstr ""
+
+#: includes/modules/FeaturedTeacher/FeaturedTeacher.php:75
+msgid "Here you can choose the Featured instructor"
+msgstr ""
+
+#: includes/modules/CoursesGrid/CoursesGrid.php:26
+#: includes/modules/CoursesGrid/CoursesGrid.php:46
+#: includes/modules/CoursesGrid/CoursesGrid.php:58
+msgid "Hide"
+msgstr ""
+
+#: includes/modules/CoursesGrid/CoursesGrid.php:21
+msgid "Hide Top bar"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://masterstudy.stylemixthemes.com/masterstudy-lms-divi/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#: includes/modules/IconBox/IconBox.php:72
+msgid "Icon Box ( Body Content ) Width"
+msgstr ""
+
+#: includes/modules/IconBox/IconBox.php:57
+msgid "Icon Box button"
+msgstr ""
+
+#: includes/modules/IconBox/IconBox.php:50
+msgid "Icon Box description"
+msgstr ""
+
+#: includes/modules/FeaturedTeacher/FeaturedTeacher.php:55
+#: includes/modules/IconBox/IconBox.php:22
+msgid "Image"
+msgstr ""
+
+#: includes/modules/IconBox/IconBox.php:65
+msgid "Image ( Content ) width"
+msgstr ""
+
+#: includes/modules/CoursesGrid/CoursesGrid.php:65
+msgid "Image size (Ex.: thumbnail, medium, full, large )"
+msgstr ""
+
+#: includes/modules/SingleCourseCarousel/SingleCourseCarousel.php:64
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:88
+#: includes/modules/CoursesCategories/CoursesCategories.php:53
+msgid "Included Categories"
+msgstr ""
+
+#: includes/modules/IconBox/IconBox.php:38
+msgid "Input the destination URL for your button."
+msgstr ""
+
+#: includes/modules/FeaturedTeacher/FeaturedTeacher.php:33
+#: includes/modules/FeaturedTeacher/FeaturedTeacher.php:41
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:35
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:84
+#: includes/modules/CoursesGrid/CoursesGrid.php:37
+#: includes/modules/CoursesCategories/CoursesCategories.php:34
+msgid "Input your desired heading here."
+msgstr ""
+
+#: includes/modules/FeaturedTeacher/FeaturedTeacher.php:46
+msgid "Instructor Bio"
+msgstr ""
+
+#: includes/modules/FeaturedTeacher/FeaturedTeacher.php:38
+msgid "Instructor Position"
+msgstr ""
+
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:35
+msgid "Limit"
+msgstr ""
+
+#: includes/modules/BlogList/BlogList.php:63
+msgid "List View"
+msgstr ""
+
+#: includes/modules/CoursesGrid/CoursesGrid.php:41
+msgid "Load more"
+msgstr ""
+
+#. Name of the plugin
+msgid "Masterstudy LMS Divi Modules"
+msgstr ""
+
+#. Description of the plugin
+msgid "Masterstudy LMS Modules for Divi Builder"
+msgstr ""
+
+#: includes/modules/FeaturedTeacher/FeaturedTeacher.php:30
+#: includes/modules/RecentCourses/RecentCourses.php:22
+#: includes/modules/CertificateChecker/CertificateChecker.php:37
+#: includes/modules/CourseBundles/CourseBundles.php:21
+#: includes/modules/IconBox/IconBox.php:43
+#: includes/modules/SingleCourseCarousel/SingleCourseCarousel.php:31
+#: includes/modules/BlogList/BlogList.php:41
+#: includes/modules/CoursesSearchbox/CoursesSearchbox.php:22
+#: includes/modules/GoogleClassrooms/GoogleClassrooms.php:22
+#: includes/modules/CoursesGrid/CoursesGrid.php:33
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:21
+#: includes/modules/CoursesCategories/CoursesCategories.php:31
+msgid "Module Title"
+msgstr ""
+
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:31
+msgid "Module Title "
+msgstr ""
+
+#: includes/modules/BlogList/BlogList.php:22
+msgid "MS Blog Module"
+msgstr ""
+
+#: includes/modules/CertificateChecker/CertificateChecker.php:19
+msgid "MS Certificate Checker"
+msgstr ""
+
+#: includes/modules/CourseBundles/CourseBundles.php:14
+msgid "MS Course Bundles"
+msgstr ""
+
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:14
+msgid "MS Courses Carousel"
+msgstr ""
+
+#: includes/modules/CoursesCategories/CoursesCategories.php:14
+msgid "MS Courses Categories"
+msgstr ""
+
+#: includes/modules/CoursesGrid/CoursesGrid.php:14
+msgid "MS Courses Grid"
+msgstr ""
+
+#: includes/modules/CoursesSearchbox/CoursesSearchbox.php:14
+msgid "MS Courses Searchbox"
+msgstr ""
+
+#: includes/modules/FeaturedTeacher/FeaturedTeacher.php:14
+msgid "MS Featured Teacher"
+msgstr ""
+
+#: includes/modules/GoogleClassrooms/GoogleClassrooms.php:14
+msgid "MS Google Classrooms"
+msgstr ""
+
+#: includes/modules/IconBox/IconBox.php:14
+msgid "MS Icon Box"
+msgstr ""
+
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:14
+msgid "MS Instructors Carousel"
+msgstr ""
+
+#: includes/modules/RecentCourses/RecentCourses.php:14
+msgid "MS Recent Courses"
+msgstr ""
+
+#: includes/modules/SingleCourseCarousel/SingleCourseCarousel.php:14
+msgid "MS Single Course Carousel"
+msgstr ""
+
+#: includes/modules/SingleCourseCarousel/SingleCourseCarousel.php:42
+msgid "none"
+msgstr ""
+
+#: includes/modules/GoogleClassrooms/GoogleClassrooms.php:29
+msgid "Number of Classrooms on the Page"
+msgstr ""
+
+#: includes/modules/CourseBundles/CourseBundles.php:35
+msgid "Number of Columns"
+msgstr ""
+
+#: includes/modules/CourseBundles/CourseBundles.php:28
+msgid "Number of Courses per page"
+msgstr ""
+
+#: includes/modules/RecentCourses/RecentCourses.php:29
+msgid "Number of courses to show"
+msgstr ""
+
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:42
+msgid "Per row"
+msgstr ""
+
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:63
+msgid "Per row on Mobile"
+msgstr ""
+
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:49
+msgid "Per row on Notebook"
+msgstr ""
+
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:56
+msgid "Per row on Tablet"
+msgstr ""
+
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:45
+msgid "Popular"
+msgstr ""
+
+#: includes/modules/SingleCourseCarousel/SingleCourseCarousel.php:43
+msgid "popular"
+msgstr ""
+
+#: includes/modules/BlogList/BlogList.php:49
+msgid "Post Count"
+msgstr ""
+
+#: includes/modules/BlogList/BlogList.php:79
+msgid "Post Date Background Color"
+msgstr ""
+
+#: includes/modules/BlogList/BlogList.php:72
+msgid "Post Date Title Color"
+msgstr ""
+
+#: includes/modules/BlogList/BlogList.php:162
+msgid "Posted in:"
+msgstr ""
+
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:82
+msgid "Prev Next Buttons"
+msgstr ""
+
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:55
+msgid "Previous/Next buttons"
+msgstr ""
+
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:47
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:99
+msgid "Rating"
+msgstr ""
+
+#: includes/modules/SingleCourseCarousel/SingleCourseCarousel.php:45
+msgid "rating"
+msgstr ""
+
+#: includes/modules/FeaturedTeacher/FeaturedTeacher.php:68
+msgid "Select instructor"
+msgstr ""
+
+#: includes/modules/BlogList/BlogList.php:59
+msgid "Select the blog style"
+msgstr ""
+
+#: includes/modules/SingleCourseCarousel/SingleCourseCarousel.php:68
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:92
+#: includes/modules/CoursesCategories/CoursesCategories.php:57
+msgid "Select the categories that you would like to include in the feed."
+msgstr ""
+
+#: includes/modules/FeaturedTeacher/FeaturedTeacher.php:60
+#: includes/modules/IconBox/IconBox.php:27
+msgid "Set As Image"
+msgstr ""
+
+#: includes/modules/CoursesGrid/CoursesGrid.php:25
+#: includes/modules/CoursesGrid/CoursesGrid.php:45
+#: includes/modules/CoursesGrid/CoursesGrid.php:57
+msgid "Show"
+msgstr ""
+
+#: includes/modules/SingleCourseCarousel/SingleCourseCarousel.php:82
+msgid "Single Courses Carousel error: Please select at least one category!"
+msgstr ""
+
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:94
+msgid "Sort By"
+msgstr ""
+
+#: includes/modules/CoursesGrid/CoursesGrid.php:53
+msgid "Sort Courses"
+msgstr ""
+
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:40
+msgid "Sorting options — Sort by"
+msgstr ""
+
+#: includes/modules/SingleCourseCarousel/SingleCourseCarousel.php:38
+msgid "Sorting options “Sort by”"
+msgstr ""
+
+#: includes/modules/CoursesCarousel/CoursesCarousel.php:80
+msgid "Specify the number of courses per row "
+msgstr ""
+
+#: includes/modules/RecentCourses/RecentCourses.php:36
+#: includes/modules/CoursesSearchbox/CoursesSearchbox.php:29
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:70
+#: includes/modules/CoursesCategories/CoursesCategories.php:39
+msgid "Style"
+msgstr ""
+
+#: includes/modules/RecentCourses/RecentCourses.php:40
+#: includes/modules/CoursesSearchbox/CoursesSearchbox.php:33
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:74
+#: includes/modules/CoursesCategories/CoursesCategories.php:43
+msgid "Style 1"
+msgstr ""
+
+#: includes/modules/RecentCourses/RecentCourses.php:41
+#: includes/modules/CoursesSearchbox/CoursesSearchbox.php:34
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:75
+#: includes/modules/CoursesCategories/CoursesCategories.php:44
+msgid "Style 2"
+msgstr ""
+
+#: includes/modules/CoursesCategories/CoursesCategories.php:45
+msgid "Style 3"
+msgstr ""
+
+#: includes/modules/CoursesCategories/CoursesCategories.php:46
+msgid "Style 4"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#: includes/modules/BlogList/BlogList.php:169
+msgid "Tags:"
+msgstr ""
+
+#: includes/modules/CertificateChecker/CertificateChecker.php:40
+#: includes/modules/BlogList/BlogList.php:44
+msgid "Text entered here will appear as title."
+msgstr ""
+
+#: includes/modules/InstructorsCarousel/InstructorsCarousel.php:28
+msgid "Title Color"
+msgstr ""
+
+#: includes/modules/FeaturedTeacher/FeaturedTeacher.php:58
+#: includes/modules/IconBox/IconBox.php:25
+msgid "Upload an image"
+msgstr ""
+
+#: includes/modules/FeaturedTeacher/FeaturedTeacher.php:61
+#: includes/modules/IconBox/IconBox.php:28
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr ""
